@@ -1,0 +1,6 @@
+{
+  "name": "Orderly",
+  "description": "Orderly Mobile-First Point of Sale (POS) system with offline IndexedDB storage, cash counter sessions, sales, inventory, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

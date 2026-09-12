@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Orderly</string>
+    <string name="title_activity_main">Orderly</string>
+    <string name="package_name">com.orderly.pos</string>
+    <string name="custom_url_scheme">com.orderly.pos</string>
+</resources>
